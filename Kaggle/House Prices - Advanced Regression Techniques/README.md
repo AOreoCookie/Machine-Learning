@@ -1,5 +1,5 @@
 # House Prices - Advanced Regression Techniques
-***Predict sales prices and practice feature engineering, RFs, and gradient boosting***
+*"Predict sales prices and practice feature engineering, RFs, and gradient boosting"*
 
 ## Link
 **Kaggle**: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
@@ -16,7 +16,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 ## Evaluation 
 
 ### Goal 
-Predict the sales price for each house. FOr each id in the test set, you must predict the value of the SalePrice variable.
+Predict the sales price for each house. For each id in the test set, you must predict the value of the `SalePrice` variable.
 
 ### Dataset
 [Ames Housing Dataset](http://jse.amstat.org/v19n3/decock.pdf)
